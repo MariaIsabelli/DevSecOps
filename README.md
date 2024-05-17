@@ -390,5 +390,6 @@ Explore, aprenda e compartilhe! Juntos, estamos fortalecendo o entendimento e a 
      
      <p align="center">  
 <img src="https://miro.medium.com/max/566/1*Dkmqx1iM4P15wthwBWGCEQ.gif" width="282"/>
+Link:https://medium.com/@mariaisabellipinto
 </p>
 
